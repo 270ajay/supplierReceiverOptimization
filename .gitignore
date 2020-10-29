@@ -1,0 +1,6 @@
+*.pyc
+output/*.log
+.idea/
+*.pbix
+output/*.csv
+output/*.lp
